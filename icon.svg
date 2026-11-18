@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="근무일 계산기">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3458bd"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <rect x="104" y="128" width="304" height="272" rx="44" fill="#ffffff"/>
+  <path d="M104 172a44 44 0 0 1 44-44h216a44 44 0 0 1 44 44v34H104z" fill="#dbe4ff"/>
+  <rect x="168" y="96" width="26" height="70" rx="13" fill="#ffffff"/>
+  <rect x="318" y="96" width="26" height="70" rx="13" fill="#ffffff"/>
+  <circle cx="170" cy="258" r="15" fill="#c9d6f7"/>
+  <circle cx="256" cy="258" r="15" fill="#c9d6f7"/>
+  <circle cx="342" cy="258" r="15" fill="#c9d6f7"/>
+  <circle cx="170" cy="330" r="15" fill="#c9d6f7"/>
+  <path d="M232 336l26 26 62-66" fill="none" stroke="#2f57d9" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
